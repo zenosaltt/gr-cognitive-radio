@@ -1,2 +1,2 @@
 # gr-cognitive-radio
-`Next Generation Networks` course project.
+_Next Generation Networks_ course project.
